@@ -1,7 +1,7 @@
 https://cytelsystem.github.io/Pizza-front/
 
-# Pizza&Front
+# Bootstrap
 
-## lenguaje HTML
+## Frameworks
 
 ### Clase de Front-End
